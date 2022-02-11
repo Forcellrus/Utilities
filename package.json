@@ -1,0 +1,12 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Utilities for various projects",
+  "main": "index.js",
+  "author": "Forcellrus",
+  "license": "MIT",
+  "dependencies": {
+    "pino": "^7.6.5",
+    "pino-pretty": "^7.5.1"
+  }
+}
