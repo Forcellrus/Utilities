@@ -1,12 +1,25 @@
 {
-  "name": "utils",
-  "version": "1.0.0",
-  "description": "Utilities for various projects",
-  "main": "index.js",
+  "name": "@forcellrus/utils",
+  "version": "0.1.0",
+  "description": "Utilities for various own projects.",
   "author": "Forcellrus",
   "license": "MIT",
+  "homepage": "https://github.com/Forcellrus/Utilities#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forcellrus/Utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Forcellrus/Utilities/issues"
+  },
   "dependencies": {
+    "glob": "^7.2.0",
     "pino": "^7.6.5",
     "pino-pretty": "^7.5.1"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.2.0",
+    "@types/node": "^17.0.17",
+    "typescript": "^4.5.5"
   }
 }
